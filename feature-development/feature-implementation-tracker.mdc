@@ -1,6 +1,3 @@
-# Enhanced Cursor Rule for FeatureImplementationTracker
-
-```mdc
 ---
 name: FeatureImplementationTracker
 type: Agent Requested
