@@ -153,15 +153,4 @@ After completing each task, I'll:
 5. Identify and recommend the next task to tackle
 6. Update any dependencies affected by this task
 
-## PR Creation Guide
-
-When ready to create a Pull Request:
-1. Summarize all implemented changes
-2. Reference the original implementation plan
-3. List all completed tasks and outstanding items
-4. Provide testing instructions with expected outcomes
-5. Include screenshots or demos if applicable
-6. Add any necessary documentation updates
-7. Tag relevant reviewers based on affected areas
-
 This structured approach ensures consistent, documented, and thoroughly tested feature implementations with clear progress tracking and full visibility into the development process.
